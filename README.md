@@ -6,7 +6,7 @@ The algorithm is inspired by model-based RL neuroscience experiments, where mice
 
 <img src="https://github.com/AngelCanelo/VAE-Model-based-RL-for-navigation/blob/main/images/Fig_1_Navigation_Environments.png" width=50% height=50%>
 
-In our algorithm the VAE with angular latent representation is combined with a policy network aupdated using Deep Deterministic Policy Gradient (DDPG).
+In our algorithm the VAE with angular latent representation is combined with a policy network updated using Deep Deterministic Policy Gradient (DDPG).
 
 <img src="https://github.com/AngelCanelo/VAE-Model-based-RL-for-navigation/blob/main/images/Fig_2_workflow_diagram.png" width=50% height=50%>
 
